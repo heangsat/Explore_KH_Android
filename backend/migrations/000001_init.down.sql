@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS catalog_versions;
+DROP TABLE IF EXISTS bookmarks;
+DROP TABLE IF EXISTS reviews;
+DROP TABLE IF EXISTS refresh_tokens;
+DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS attraction_hours;
+DROP TABLE IF EXISTS attractions;
+DROP TABLE IF EXISTS provinces;
